@@ -24,3 +24,14 @@ export const projects = [
     link: "https://jaime-laureano.github.io/SpaceDoggo/",
   },
 ];
+
+export const skills = [
+  "JavaScript",
+  "React",
+  "Express",
+  "Node",
+  "MongoDB",
+  "Material UI",
+  "Tailwind",
+  "Bootstrap",
+];
