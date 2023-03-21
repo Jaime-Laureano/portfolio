@@ -3,16 +3,16 @@ import React from "react";
 function About() {
   return (
     <section id="about">
-      <div className="container px-5 py-10 mx-auto text-center lg:px-40">
+      <div className="container px-5 py-10 mx-auto text-center lg:px-40 object-center">
         <div className="flex flex-col w-full mb-20">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hello, I'm Jaime.
             <br className="hidden lg:inline-block" />
           </h1>
           <p className="mb-8 leading-relaxed">
-            ADD AN INTRODUCTION HERE Lorem ipsum dolor sit amet, consectetur
-            adipisicing elit. Qui laborum quasi, incidunt dolore iste nostrum
-            cupiditate voluptas? Laborum, voluptas natus?
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
+            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
+            Laborum, voluptas natus?
           </p>
           <div className="flex justify-center">
             <a
@@ -29,11 +29,11 @@ function About() {
             </a>
           </div>
         </div>
-        <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
+        <div className="h-auto max-w-full">
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./me2.jpeg"
+            src="./me3.jpeg"
           />
         </div>
       </div>
