@@ -10,6 +10,9 @@ function Footer() {
         </a>
         . All Rights Reserved.
       </span>
+      <div className="flex justify-center">
+        <img className=" w-5 h-5" alt="lime" src="./lime3.png" />
+      </div>
       <ul class="flex flex-wrap items-center mt-3 text-sm text-gray-500 dark:text-gray-400 sm:mt-0">
         <li>
           <a href="#about" class="mr-4 hover:underline md:mr-6 ">
