@@ -8,11 +8,11 @@ function About() {
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hello, I'm Jaime
           </h1>
-          <h2>(rhyymes with lime)</h2>
+          <h2>(rhymes with lime)</h2>
           <br />
           <div className="flex justify-center">
             <img
-              className="object-center w-20 h-20"
+              className="object-center w-20 h-20 animate-bounce"
               alt="lime"
               src="./lime1.png"
             />
