@@ -4,17 +4,20 @@ function About() {
   return (
     <section id="about">
       <div className="container px-5 py-10 mx-auto text-center lg:px-40 object-center">
-        <div className="flex flex-col w-full mb-20">
+        <div className="flex flex-col object-center w-full mb-20">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hello, I'm Jaime
-            <br className="hidden lg:inline-block" />
-            (rhyymes with lime)
           </h1>
-          <img
-            className="object-center h-20 w-20"
-            alt="lime"
-            src="./lime1.png"
-          />
+          <h2>(rhyymes with lime)</h2>
+          <br />
+          <div className="flex justify-center">
+            <img
+              className="object-center w-20 h-20"
+              alt="lime"
+              src="./lime1.png"
+            />
+          </div>
+          <br />
           <p className="mb-8 leading-relaxed">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
             laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
