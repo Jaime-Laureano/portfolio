@@ -28,7 +28,7 @@ function Footer() {
         </li>
         <li>
           <a href="#testimonials" class="hover:underline">
-            Testimonials
+            References
           </a>
         </li>
       </ul>
