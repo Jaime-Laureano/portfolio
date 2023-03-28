@@ -46,9 +46,9 @@ export const testimonials = [
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+      "Not only is Jaime a very good developper, capable of creating great apps and solving bugs on the spot, he is also a pleasure to work with always a positive mindset, always ready to help and explain difficult concepts in an easy way, and having a great attitude and problem solving skills when facing a tough situation. Any team would be lucky to have him onboard.",
+    image: "julie.jpeg",
+    name: "Julie Nonnenmacher",
+    company: "Senior Program Manager @ Ironhack",
   },
 ];
