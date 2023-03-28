@@ -50,4 +50,11 @@ export const testimonials = [
     name: "Julie Nonnenmacher",
     company: "Senior Program Manager @ Ironhack",
   },
+  {
+    quote:
+      "As a teacher assistant at Ironhack, Jaime's dedication to helping students succeed is unmatched. He is always willing to go the extra mile to provide them with the support they need to resolve coding issues and reach their full potential.Jaime is a valuable team player, known for his proactive approach and excellent communication skills. He consistently brings creative solutions to the table, making him an asset to any group. His skills and knowledge as a developer are also impressive, and he stays on top of the latest industry trends to stay ahead of the game.In summary, Jaime is a highly skilled teacher assistant and developer, and any company would be fortunate to have him on their team. He is a true asset to any web development project, and I would not hesitate to recommend him.",
+    image: "dani.jpeg",
+    name: "Daniel Calvente Gómez",
+    company: "Teacher Assistant @ Ironhack",
+  },
 ];
