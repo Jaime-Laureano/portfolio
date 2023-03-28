@@ -31,9 +31,11 @@ export const skills = [
   "Express",
   "Node",
   "MongoDB",
-  "Material UI",
+  "Mongoose",
   "Tailwind",
+  "Material UI",
   "Bootstrap",
+  "Git/Github",
 ];
 
 export const testimonials = [

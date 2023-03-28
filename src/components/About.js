@@ -19,9 +19,17 @@ function About() {
           </div>
           <br />
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            I’m an aspiring web developer, currently searching for a frontend
+            position that will continue to push and challenge me. I am adaptable
+            and always eager to learn, and would love to find a position where I
+            can continue growing and strengthening my skills. Over the past
+            year, I have been doing consultancy work as a Teaching Assistant for
+            the Ironhack Full Stack Web Dev bootcamp. This position has been has
+            been both challenging and rewarding. It has given me the opportunity
+            to increase and advance my knowledge in both front and backend web
+            development. However, I am ready to challenge myself further, and
+            take the next step to find a long term position in a company as a
+            frontend developer.
           </p>
           <div className="flex justify-center">
             <a
