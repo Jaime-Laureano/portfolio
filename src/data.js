@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Bi-Linguist",
     subtitle: "MERN Stack",
-    description: ".",
+    description: "Currently under construction, as issues with Heroku...",
     image: "./Bilinguist.png",
     link: "https://bilinguist.netlify.app",
   },
@@ -16,8 +16,9 @@ export const projects = [
   {
     title: "Space Doggo",
     subtitle: "P5, JS, HTML, CSS",
-    description: ".",
-    image: "./SpaceDoggo.png",
+    description:
+      "Built for desktop with best results on Chrome (currently refactoring code for mobile version)",
+    image: "./sd2.png",
     link: "https://jaime-laureano.github.io/SpaceDoggo/",
   },
 ];
