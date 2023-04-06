@@ -19,7 +19,7 @@ function About() {
           </div>
           <br />
           <p className="mb-4 leading-relaxed">
-            I’m an aspiring web developer, currently searching for a frontend
+            I am a full stack web developer, currently searching for a frontend
             position that will continue to push and challenge me. I am adaptable
             and always eager to learn, and would love to find a position where I
             can continue growing and strengthening my skills.
